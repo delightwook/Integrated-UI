@@ -9,4 +9,3 @@ actions = mistral,rally,zabbix,nagios,checkpoint,testing
 [nagios]
 #url = http://[nagios server's IP:PORT]/nagios
 
-
